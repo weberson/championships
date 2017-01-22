@@ -19,7 +19,7 @@ namespace Championships.Controllers
             _context = context;
         }
 
-        public async Task PostAsync([FromBody]string name)
+        public async Task PostAsync(string name)
         {
             var player = new Player { Name = name };
 
