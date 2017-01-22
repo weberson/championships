@@ -39,3 +39,15 @@ D:\GitProjects\championships\Source\Championships\bin\System.Web.Http.WebHost.xm
 D:\GitProjects\championships\Source\Championships\obj\Debug\Championships.csprojResolveAssemblyReference.cache
 D:\GitProjects\championships\Source\Championships\obj\Debug\Championships.dll
 D:\GitProjects\championships\Source\Championships\obj\Debug\Championships.pdb
+D:\GitProjects\championships\Source\Championships\bin\EntityFramework.dll
+D:\GitProjects\championships\Source\Championships\bin\EntityFramework.SqlServer.dll
+D:\GitProjects\championships\Source\Championships\bin\Microsoft.Web.Infrastructure.dll
+D:\GitProjects\championships\Source\Championships\bin\SimpleInjector.dll
+D:\GitProjects\championships\Source\Championships\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+D:\GitProjects\championships\Source\Championships\bin\SimpleInjector.Integration.WebApi.dll
+D:\GitProjects\championships\Source\Championships\bin\WebActivator.dll
+D:\GitProjects\championships\Source\Championships\bin\EntityFramework.xml
+D:\GitProjects\championships\Source\Championships\bin\EntityFramework.SqlServer.xml
+D:\GitProjects\championships\Source\Championships\bin\SimpleInjector.xml
+D:\GitProjects\championships\Source\Championships\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+D:\GitProjects\championships\Source\Championships\bin\SimpleInjector.Integration.WebApi.xml
