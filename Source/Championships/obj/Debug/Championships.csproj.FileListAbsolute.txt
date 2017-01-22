@@ -51,3 +51,5 @@ D:\GitProjects\championships\Source\Championships\bin\EntityFramework.SqlServer.
 D:\GitProjects\championships\Source\Championships\bin\SimpleInjector.xml
 D:\GitProjects\championships\Source\Championships\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
 D:\GitProjects\championships\Source\Championships\bin\SimpleInjector.Integration.WebApi.xml
+D:\GitProjects\championships\Source\Championships\obj\Debug\Championships.Migrations.AddPlayer.resources
+D:\GitProjects\championships\Source\Championships\obj\Debug\Championships.csproj.GenerateResource.Cache
